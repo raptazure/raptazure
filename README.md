@@ -5,7 +5,7 @@
   <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust--ffffff.svg?style=social&logo=Rust" alt="Rust"></a>
 </p>
 <p align="center">
-  𝔉𝔯𝔬𝔪 𝔖𝔦𝔤𝔫𝔞𝔩𝔰 𝔱𝔬 𝔖𝔶𝔪𝔭𝔥𝔬𝔫𝔦𝔢𝔰.
+  𝕱𝖗𝖔𝖒 𝕾𝖎𝖌𝖓𝖆𝖑𝖘 𝖙𝖔 𝕾𝖞𝖒𝖕𝖍𝖔𝖓𝖎𝖊𝖘.
 </p>
 
 <!--
