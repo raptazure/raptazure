@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/raptazure/cdn/font1.png" width="300px" alt="𝕱𝖗𝖔𝖒 𝕾𝖎𝖌𝖓𝖆𝖑𝖘 𝖙𝖔 𝕾𝖞𝖒𝖕𝖍𝖔𝖓𝖎𝖊𝖘. "></img>
+  <img src="https://cdn.jsdelivr.net/gh/raptazure/cdn/collections/font1.png" width="300px" alt="𝕱𝖗𝖔𝖒 𝕾𝖎𝖌𝖓𝖆𝖑𝖘 𝖙𝖔 𝕾𝖞𝖒𝖕𝖍𝖔𝖓𝖎𝖊𝖘. "></img>
 </p>
 
 <!--
