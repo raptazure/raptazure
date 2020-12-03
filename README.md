@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raptazure&langs_count=8&layout=compact&hide=html,javascript"</img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raptazure&langs_count=6&layout=compact&hide=html,javascript"</img>
 </p>
 
 <p align="center">
